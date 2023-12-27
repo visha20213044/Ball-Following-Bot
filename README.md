@@ -38,6 +38,11 @@
     <th>Registration number</th>
   </tr>
   <tr>
+    <td>Vishal Yadav</td>
+    <td>Mechanical Engineering</td>
+    <td>20213044</td>
+  </tr>
+  <tr>
     <td>SSR Sri Harsha Kedarisetty</td>
     <td>Computer Science and Engineering</td>
     <td>20214527</td>
