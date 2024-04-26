@@ -5,6 +5,8 @@
 <h3>About</h3>
 <p>This is a project based on hardware and OpenCV which is proposed and executed by robotics club of MNNIT to provide hands on experience and exposure to the students in different fields related to robotics.</p>
 <img src="https://user-images.githubusercontent.com/79747698/229343600-aa178f7f-1cf4-4532-8e00-98a17d6e7e50.jpg" alt="Ball following bot" width="70%" height="60%"/>
+
+https://github.com/visha20213044/LaserCamTracker/assets/97392436/ebd73a6d-1b51-4872-9086-70927f493b73
 <hr>
 <h3>This project is mentored by:</h3>
 <table>
